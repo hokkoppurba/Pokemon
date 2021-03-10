@@ -41,7 +41,7 @@ class People extends Component{
                               <p><b>Height    :</b>{detail.height}</p>
                               <p><b>Order    :</b>{detail.order}</p>
                               <p><b>Weight    :</b>{detail.weight}</p> 
-                              <p><b>Types    :</b>
+                              {/* <p><b>Types    :</b>
                               {detail.types.map((item) => {
                                   return(
                                       <p><b>Slot    :</b>{item.slot}</p>
@@ -50,7 +50,7 @@ class People extends Component{
                               })}
 
 
-                              </p>
+                              </p> */}
                               
                                    
                                                                                            
